@@ -41,7 +41,7 @@ struct ArmorParam{
 	//default values  给各参数设定默认值
 	ArmorParam(){
 	color_threshold = 100-20;
-	bright_threshold = 60;
+	bright_threshold = 430;
 
 	min_area = 50;
 	max_angle = 45;
